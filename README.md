@@ -1,7 +1,5 @@
 # Hi there! All good?
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top languages used by Erick2280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick2280" /></a>
-
 I'm **Erick Almeida**, Computer Science student, web enthusiast, curious about design and from Irará, Bahia, Brazil.
 
 - ✨ Pronouns: **he/him**

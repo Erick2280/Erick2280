@@ -1,5 +1,7 @@
 # Hi there! All good?
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top languages used by Erick2280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick2280" /></a>
+
 I'm **Erick Almeida**, Computer Science student, web enthusiast, curious about design and from Irará, Bahia, Brazil.
 
 - ✨ Pronouns: **he/him**
@@ -11,8 +13,6 @@ I'm **Erick Almeida**, Computer Science student, web enthusiast, curious about d
 Looking for more info about me? [**Check out my website!**](https://erickalmeida.com.br/)
 
 ## Technologies and tools
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top languages used by Erick2280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick2280&layout=compact" /></a>
 
 - Currently working with **iOS/iPadOS** (using Swift, SwiftUI and UIKit) and **web technologies** (mostly TypeScript, Angular, Vue, Ionic and Node.js).
 - Also have previous experiences with **Java** and **Python**.

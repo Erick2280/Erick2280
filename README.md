@@ -8,7 +8,7 @@ I'm **Erick Almeida**, Computer Science student, web enthusiast, curious about d
 - 💙 Software Developer at [**Autecla**](https://autecla.com.br/)
 - 📙 Member of [**PET-Informática**](https://pet.cin.ufpe.br/)
 
-Looking for more info about me? [**Check out my website!**](riso.dev)
+Looking for more info about me? [**Check out my website!**](https://erickalmeida.com.br/)
 
 ## Technologies and tools
 
